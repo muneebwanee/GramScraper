@@ -17,9 +17,7 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
-	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴
+	{re}丂{cy}🝗セㄩ尸
 	""")
 
 def requirements():
@@ -79,7 +77,7 @@ def update_tool():
 	import requests as r
 	banner()
 	source = r.get("https://raw.githubusercontent.com/muneebwanee/GramScraper/main/.version")
-	if source.text == '3.1':
+	if source.text == '1.0':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
 		print(gr+'['+cy+'+'+gr+']'+cy+' removing old files ...')
