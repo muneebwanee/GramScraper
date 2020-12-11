@@ -78,7 +78,7 @@ def merge_csv():
 def update_tool():
 	import requests as r
 	banner()
-	source = r.get("https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.version")
+	source = r.get("https://raw.githubusercontent.com/muneebwanee/GramScraper/main/.version")
 	if source.text == '1':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
