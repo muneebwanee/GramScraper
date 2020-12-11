@@ -2,8 +2,10 @@
 # code by : github.com/muneebwanee
 
 """
+
 you can re run setup.py 
 if you have added some wrong value
+
 """
 re="\033[1;31m"
 gr="\033[1;32m"
@@ -15,7 +17,9 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}丂{cy}🝗セㄩ尸
+	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
+	{re}╚═╗{cy}├┤  │ │ │├─┘
+	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	""")
 
 def requirements():
@@ -74,7 +78,7 @@ def merge_csv():
 def update_tool():
 	import requests as r
 	banner()
-	source = r.get("https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/main/.version")
+	source = r.get("https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.version")
 	if source.text == '1':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
@@ -119,5 +123,5 @@ try:
 except IndexError:
 	print('\n'+gr+'['+re+'!'+gr+']'+cy+' no argument given : '+ sys.argv[1])
 	print(gr+'['+re+'!'+gr+']'+cy+' for help use : ')
-	print(gr+'['+re+'!'+gr+']'+cy+' https://github.com/th3unkn0n/TeleGram-Scraper#-how-to-install-and-use')
+	print(gr+'['+re+'!'+gr+']'+cy+' https://github.com/muneebwanee/GramScraper#-how-to-install-and-use')
 	print(gr+'$ python3 setup.py -h'+'\n')
