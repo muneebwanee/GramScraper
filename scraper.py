@@ -11,8 +11,8 @@ gr="\033[1;32m"
 cy="\033[1;36m"
 
 def banner():
-print(f"""
-  {re}Ꮆ尺闩爪{cy}丂⼕尺闩尸🝗尺
+    print(f"""
+{re}Ꮆ尺闩爪{cy}丂⼕尺闩尸🝗尺
 
             version : 1.0
         github.com/muneebwanee
