@@ -15,7 +15,8 @@ import os, sys
 import time
 
 def banner():
-        print(f"""
+	os.system('clear')
+	print(f"""
 	{re}丂{cy}🝗セㄩ尸
 	""")
 
@@ -86,7 +87,7 @@ def update_tool():
 			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/add2group.py
 			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/scraper.py
 			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/setup.py
-			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/smsbot.py
+			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/mian/smsbot.py
 			chmod 777 *.py
 			""");time.sleep(3)
 		print(gr+'\n['+cy+'+'+gr+']'+cy+' update compled.\n')
