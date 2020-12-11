@@ -79,7 +79,7 @@ def update_tool():
 	import requests as r
 	banner()
 	source = r.get("https://raw.githubusercontent.com/muneebwanee/GramScraper/main/.version")
-	if source.text == '3':
+	if source.text == '1':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
 		print(gr+'['+cy+'+'+gr+']'+cy+' removing old files ...')
