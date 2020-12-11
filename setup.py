@@ -1,11 +1,9 @@
 #!/bin/env python3
-# code by : github.com/muneebwanee
+# code by : youtube.com/theunknon
 
 """
-
 you can re run setup.py 
 if you have added some wrong value
-
 """
 re="\033[1;31m"
 gr="\033[1;32m"
@@ -17,7 +15,9 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}丂{cy}🝗セㄩ尸
+	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
+	{re}╚═╗{cy}├┤  │ │ │├─┘
+	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	""")
 
 def requirements():
@@ -76,7 +76,7 @@ def merge_csv():
 def update_tool():
 	import requests as r
 	banner()
-	source = r.get("https://raw.githubusercontent.com/muneebwanee/GramScraper/main/.version")
+	source = r.get("https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/.version")
 	if source.text == '3':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
@@ -84,10 +84,10 @@ def update_tool():
 		os.system('rm *.py');time.sleep(3)
 		print(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')
 		os.system("""
-			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/add2group.py
-			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/scraper.py
-			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/main/setup.py
-			curl -s -O https://raw.githubusercontent.com/muneebwanee/GramScraper/mian/smsbot.py
+			curl -s -O https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/add2group.py
+			curl -s -O https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/scraper.py
+			curl -s -O https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/setup.py
+			curl -s -O https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/smsbot.py
 			chmod 777 *.py
 			""");time.sleep(3)
 		print(gr+'\n['+cy+'+'+gr+']'+cy+' update compled.\n')
@@ -121,5 +121,4 @@ try:
 except IndexError:
 	print('\n'+gr+'['+re+'!'+gr+']'+cy+' no argument given : '+ sys.argv[1])
 	print(gr+'['+re+'!'+gr+']'+cy+' for help use : ')
-	print(gr+'['+re+'!'+gr+']'+cy+' https://github.com/muneebwanee/GramScraper#-how-to-install-and-use')
-	print(gr+'$ python3 setup.py -h'+'\n')
+	print(gr+'['+re+'!'+gr+']'+cy+' https:
