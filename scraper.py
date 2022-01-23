@@ -37,7 +37,7 @@ if not client.is_user_authorized():
     client.send_code_request(phone)
     os.system('clear')
     banner()
-    client.sign_in(phone, input(gr+'[+] Enter the code: '+re))
+    client.sign_in(phone, input(gr+'[+] Enter the OTP code sent to your Telegram: '+re))
  
 os.system('clear')
 banner()
