@@ -17,8 +17,8 @@
 
 <p align="center">
 <a href="https://www.deepnet.eu.org"><img alt="Telegram API" src="https://blogger.googleusercontent.com/img/a/AVvXsEi1xZAheL2-PDM5boGWqatWz0B0pb-DGd_EwPkZbxTUZ_T0e-HkuX7Jf_aex2NM6BDKoqueSHl4gGpnVKowwT0OAvVHXoAWzFJS1qeOayBafxy8-GkByd6APh-GBK-sVpwG7AQ6T-a-pCmiQD4zbpxi_0SHMF6xzBJRapis-2exhjibkGGBplURJx1n=w217-h416"></a>
-<a href="https://www.deepnet.eu.org"><img alt="GramScrapper" src="https://blogger.googleusercontent.com/img/a/AVvXsEgoWHt6U27KWsNZEjMqgDfkalsvz66YDXrpo1os1XH3W5d6jWUDVkYGsvjpX94mmQUnfIfpHQKgZIa3R-6R9_FDzksGq-aM5ztOZylT4Ho43Elx524YCSx16Sp7qHTzCu1Pboho68mabRQizJt3I__jP210joxKUv9slaecxgcTjI6DA7EXeNR4242B=s320"></a>
-<a href="https://www.deepnet.eu.org"><img alt="GramScrapper" src="https://blogger.googleusercontent.com/img/a/AVvXsEh-wzgSKFA7dwSaYd39CVthx59meP00Q8L7D7TjBTcfqszhOsvAFMKaRVwpozXDU7331azqVncHB4cHfdX4ApmDrDKOjh0WKkz8cTzVXt1g-aDiUiZWC2m6kzLrou8xDJLhksPPTlkr5mgNL2WdddVrnqCHYizDyARVAMio1fznZiwLuIqe5IUOvYFC=w297-h432"></a>
+<a href="https://www.deepnet.eu.org"><img alt="GramScraper" src="https://blogger.googleusercontent.com/img/a/AVvXsEgoWHt6U27KWsNZEjMqgDfkalsvz66YDXrpo1os1XH3W5d6jWUDVkYGsvjpX94mmQUnfIfpHQKgZIa3R-6R9_FDzksGq-aM5ztOZylT4Ho43Elx524YCSx16Sp7qHTzCu1Pboho68mabRQizJt3I__jP210joxKUv9slaecxgcTjI6DA7EXeNR4242B=s320"></a>
+<a href="https://www.deepnet.eu.org"><img alt="GramScraper" src="https://blogger.googleusercontent.com/img/a/AVvXsEh-wzgSKFA7dwSaYd39CVthx59meP00Q8L7D7TjBTcfqszhOsvAFMKaRVwpozXDU7331azqVncHB4cHfdX4ApmDrDKOjh0WKkz8cTzVXt1g-aDiUiZWC2m6kzLrou8xDJLhksPPTlkr5mgNL2WdddVrnqCHYizDyARVAMio1fznZiwLuIqe5IUOvYFC=w297-h432"></a>
 </p>
 
 ---
