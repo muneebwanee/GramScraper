@@ -18,10 +18,9 @@ class main():
     def banner():
         
 print(f"""
-  {re}Ꮆ尺闩爪{cy}丂⼕尺闩尸🝗尺
-
-                version : 1.0
-            github.com/muneebwanee
+  {re}Ꮆ尺闩爪 丂⼕尺闩尸🝗尺{cy}
+         version : 1.0
+     github.com/muneebwanee
             """)
 
     def send_sms():
